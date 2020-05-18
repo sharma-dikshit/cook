@@ -1,0 +1,90 @@
+
+/*========================================= SMALLL PHONES from 0 to 480px ====================================================*/
+
+@media only screen and (max-width: 500px) {
+
+}
+
+/*========================================SMALL PHONES TO SMALL TABLETS from 481 to 767px ======================================*/
+
+@media only screen and (max-width: 767px) {
+    .btn-app img {
+        height: 40px;
+        width: 130px;
+        margin-right: 20px;
+    }
+    .section-steps p {
+        text-align: justify;
+    }
+    .app-screen {
+        margin-top: 0;
+        width: 50%;
+        margin-left: 25%;
+        margin-right: auto;
+    }
+    .works-steps {margin-bottom: 2px;}
+
+    .city-icon {
+        width: 17px;
+        margin-right: 2px;
+    }
+
+    .city-feature {
+        font-size: 85%;
+    }
+    
+    .footer-nav li {
+        margin-right: 5px;
+    }
+
+   .plan-box {
+       width: 100%;
+       margin-left: 0;
+   }
+   .plan-price {
+       font-size: 200%;
+   }
+    
+}
+
+/*====================================== SMALL TABLETS TO BIG TABLETS from 768 to 1023 px ======================================*/
+
+@media only screen and (max-width: 1023px) {
+    body {
+        font-size: 18px;
+    }
+    section {
+        padding: 60px 0;
+    }
+    .long-copy {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .steps-box {margin-top: 10px;}
+    .works-steps{margin-bottom: 40px;}
+    .work-steps:last-of-type {
+        margin-bottom: 60px;
+    }
+    .steps-box:last-child {
+        margin-top: 10px;
+    }
+    .app-screen {
+        width: 50%;
+    }
+
+}
+
+/*====================================== LAPTOPS AND DESKTOPS from 1024 to 1148 px ============================================*/
+
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+        width: 100%;
+        padding: 0 4%;
+    }
+    .row { padding: 0 4%; }
+}
+
+
+
+
+

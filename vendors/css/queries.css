@@ -1,0 +1,32 @@
+
+/*========================================= SMALLL PHONES from 0 to 480px ====================================================*/
+
+@media only screen and (max-width: 480px) {
+
+}
+
+/*========================================SMALL PHONES TO SMALL TABLETS from 481 to 767px ======================================*/
+
+@media only screen and (max-width: 767px) {
+
+}
+
+/*====================================== SMALL TABLETS TO BIG TABLETS from 768 to 1023 px ======================================*/
+
+@media only screen and (max-width: 1023px) {
+
+}
+
+/*====================================== LAPTOPS AND DESKTOPS from 1024 to 1148 px ============================================*/
+
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+        width: 100%;
+    }
+
+}
+
+
+
+
+
