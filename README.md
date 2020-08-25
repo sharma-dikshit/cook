@@ -1,3 +1,3 @@
-# Weekend Project a food ordering website
+# Weekend Project :  A food ordering website
 
 [Have a look (click me)](https://sharma-dikshit.github.io/cook/)
